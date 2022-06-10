@@ -190,14 +190,14 @@ sup {
 }
 
 a {
-  color: #04406A;
+  color: rgb(211, 234, 255);
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: rgb(4, 49, 82;
+  color: #02d97b;
   text-decoration: underline;
 }
 
