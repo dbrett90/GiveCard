@@ -25549,7 +25549,7 @@ h6 {
 }
 
 .templateux-navbar .templatuex-menu > li.donate > a {
-  color: rgb(108, 202, 31);
+  color: #F46530;
   font-size: 18px;
 }
 
@@ -26093,7 +26093,7 @@ textarea.form-control {
 }
 
 .donate-menu {
-  color: #02d97b;
+  color: #F46530;
   font-size: 17px;
 }
 
@@ -26105,7 +26105,7 @@ textarea.form-control {
 */
 
 .donate-button {
-  background-color: #02d97b;
+  background-color: #F46530;
   border: none;
   color: white;
   text-align: center;
