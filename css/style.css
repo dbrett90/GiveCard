@@ -25484,7 +25484,7 @@ h6 {
 
 .templateux-navbar .templateux-logo a {
   font-size: 22px;
-  color: rgb(108, 202, 31);
+  color: rgb(255, 255, 255);
 }
 
 .templateux-navbar .templateux-toggle {
@@ -25634,7 +25634,7 @@ h6 {
 
 .templateux-navbar.dark .templateux-logo a {
   font-size: 22px;
-  color: rgb(105, 241, 14);
+  color: rgb(255, 255, 255);
 }
 
 @media (min-width: 768px) {
