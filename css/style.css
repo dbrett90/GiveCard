@@ -488,6 +488,8 @@ mark {
 }
 
 .list-unstyled {
+  /* CHANGES MADE BY DANNY */
+  text-align: center;
   padding-left: 0;
   list-style: none;
 }
