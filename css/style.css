@@ -26279,6 +26279,10 @@ body .entries .entry:nth-child(2n) .title.big:before {
   box-sizing: inherit;
 }
 
+.krypton-subscribe-input:focus{
+  outline: none;
+}
+
 .subscribe-button {
   border-radius: 100px;
   display: block;
