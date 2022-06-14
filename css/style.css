@@ -488,7 +488,7 @@ mark {
 }
 
 .list-unstyled {
-  /* CHANGES MADE BY DANNY */
+  /* CHANGES MADE BY DANNY for text-align */
   text-align: center;
   padding-left: 0;
   list-style: none;
