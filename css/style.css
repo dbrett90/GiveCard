@@ -26006,6 +26006,7 @@ textarea.form-control {
 .block-footer-widget h3 {
   text-transform: uppercase;
   font-size: 15px;
+  text-align: center;
   color: #cccccc !important;
 }
 
