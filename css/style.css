@@ -26266,7 +26266,7 @@ body .entries .entry:nth-child(2n) .title.big:before {
   min-width: 300px;
   width: 100%;
   background: rgba(192, 195, 197, 0.08);
-  border: 1px solid #02d97b;
+  border: 1px solid #F46530;
   border-radius: 100px;
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5),
     0 0 25px 0 rgba(167, 179, 236, 0.16);
@@ -26286,7 +26286,7 @@ body .entries .entry:nth-child(2n) .title.big:before {
   right: 4px;
   top: 6px;
   color: white;
-  background-color: #04406A;
+  background-color: #F46530;
   border: none;
   height: 40px;
   padding-right: 26px;
