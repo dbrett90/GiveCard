@@ -26286,7 +26286,7 @@ body .entries .entry:nth-child(2n) .title.big:before {
   right: 4px;
   top: 6px;
   color: white;
-  background-color: #02d97b;
+  background-color: #04406A;
   border: none;
   height: 40px;
   padding-right: 26px;
@@ -26303,6 +26303,10 @@ body .entries .entry:nth-child(2n) .title.big:before {
   margin-bottom: 0px;
   margin-left: 2px;
   box-sizing: inherit;
+}
+
+.subscribe-button:hover{
+  outline: none;
 }
 
 .control {
