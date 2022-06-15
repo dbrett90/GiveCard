@@ -8453,6 +8453,10 @@ button.bg-dark:hover {
   padding: 0.25rem !important;
 }
 
+.size-2x{
+  font-size: 2rem;
+}
+
 .pt-1,
 .py-1 {
   padding-top: 0.25rem !important;
@@ -26128,6 +26132,10 @@ textarea.form-control {
 
 .dryfter-blue{
   color: #04406A;
+}
+
+.background-dryfter-blue{
+  background-color: #04406A !important;
 }
 
 .center {
