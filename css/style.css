@@ -26138,6 +26138,17 @@ textarea.form-control {
   background-color: #04406A !important;
 }
 
+.outline-none, .outline-none:hover{
+  text-decoration: none;
+  border-style: none;
+}
+
+.stretch-locations{
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
 .center {
   text-align: center;
   position: relative;
